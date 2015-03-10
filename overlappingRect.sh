@@ -1,0 +1,1 @@
+java intervaltree $1

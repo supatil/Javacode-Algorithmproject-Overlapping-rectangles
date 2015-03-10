@@ -1,0 +1,19 @@
+Instructions to Implement:
+
+Interval Tree class contains Insert , Check overlap , Delete and search functions.
+I am checking the overlap of rectangle cordinates with all tree nodes before inserting.
+Step 1: In putty enter the path for the folder where all attached files are.
+In CMD
+Step 2: Cd /"file path"/ 
+Step 3: ./check.sh filename
+Step 4: It will Display the result of input files.
+Step 5: Input File name to check should be any of the given filename among 5 overlapfiles and 2 no overlap files as srgument to 
+check.sh.
+
+IN buildOverlappingRect.sh I am calling class files inordertree.java and inorderNode.java
+
+Group Contribution:
+
+1) Surabhi Patil: Red Black tree.
+2) Shruthi Potpally: Converting RB tree to Interval tree.
+We both worked on interval compare and search part.
